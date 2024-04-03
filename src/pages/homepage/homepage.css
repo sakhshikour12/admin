@@ -1,0 +1,13 @@
+.homepage{
+    flex: 4;
+    width: 100%;
+    flex-wrap: wrap;
+
+
+}
+
+.homeWidgets{
+    display: flex;
+    margin: 20px;
+    /* width: 100%; */
+}

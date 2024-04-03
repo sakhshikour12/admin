@@ -1,0 +1,28 @@
+.store{
+    flex: 4;
+    margin-left: 10px;
+}
+
+.storeTitleCont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.storeIcon{
+    padding: 5px;
+    cursor: pointer;
+}
+.storeImg{
+    /* display: flex;
+    flex-direction: column; */
+    /* align-items: center; */
+    /* flex-wrap: wrap; */
+    /* width: 500px;
+    height: 200px; */
+     /* margin-top: 20px; */
+    /*width: 100%;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 7px; */
+    /* float: left; */
+}
